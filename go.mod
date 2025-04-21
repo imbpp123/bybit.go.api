@@ -1,4 +1,4 @@
-module bybit.go.api
+module github.com/imbpp123/bybit.go.api
 
 go 1.23.0
 

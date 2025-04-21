@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"testing"
 
-	"bybit.go.api/models"
+	"github.com/imbpp123/bybit.go.api/models"
 	"github.com/stretchr/testify/suite"
 )
 

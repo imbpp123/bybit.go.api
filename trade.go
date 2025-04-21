@@ -4,8 +4,8 @@ import (
 	"context"
 	"net/http"
 
-	"bybit.go.api/handlers"
-	"bybit.go.api/models"
+	"github.com/imbpp123/bybit.go.api/handlers"
+	"github.com/imbpp123/bybit.go.api/models"
 )
 
 func (s *BybitClientRequest) PlaceOrder(ctx context.Context, opts ...RequestOption) (res *ServerResponse, err error) {

@@ -42,7 +42,7 @@ require (
 ```
 
 To import my package you need just to put the link to your go mode file
-**bybit.go.api**
+**github.com/imbpp123/bybit.go.api**
 
 ## Usage
 Note: Replace placeholders (like YOUR_API_KEY, links, or other details) with the actual information. You can also customize this template to better fit the actual state and details of your Java API.
@@ -172,8 +172,8 @@ List of other contributors
             </sub>
         </a>
         <br />
-        <a href="https://github.com/VictorFrWu/bybit.go.api/commits?author=bybit-exchange" title="Code">💻</a>
-        <a href="https://github.com/VictorFrWu/bybit.go.api/commits?author=bybit-exchange" title="Documentation">📖</a>
+        <a href="https://github.com/VictorFrWu/github.com/imbpp123/bybit.go.api/commits?author=bybit-exchange" title="Code">💻</a>
+        <a href="https://github.com/VictorFrWu/github.com/imbpp123/bybit.go.api/commits?author=bybit-exchange" title="Documentation">📖</a>
     </td>
   </tr>
 </table>

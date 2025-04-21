@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	bybit "bybit.go.api"
+	bybit "github.com/imbpp123/bybit.go.api"
 )
 
 func main() {

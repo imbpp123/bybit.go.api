@@ -15,10 +15,10 @@ import (
 	"strconv"
 	"time"
 
-	"bybit.go.api/models"
+	"github.com/imbpp123/bybit.go.api/models"
 
-	"bybit.go.api/handlers"
 	"github.com/bitly/go-simplejson"
+	"github.com/imbpp123/bybit.go.api/handlers"
 	jsoniter "github.com/json-iterator/go"
 )
 

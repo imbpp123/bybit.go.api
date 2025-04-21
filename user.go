@@ -4,7 +4,7 @@ import (
 	"context"
 	"net/http"
 
-	"bybit.go.api/handlers"
+	"github.com/imbpp123/bybit.go.api/handlers"
 )
 
 func (s *BybitClientRequest) CreateSubMember(ctx context.Context, opts ...RequestOption) (res *ServerResponse, err error) {

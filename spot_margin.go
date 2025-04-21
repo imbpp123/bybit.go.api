@@ -5,7 +5,7 @@ import (
 	"errors"
 	"net/http"
 
-	"bybit.go.api/handlers"
+	"github.com/imbpp123/bybit.go.api/handlers"
 )
 
 func (s *BybitClientRequest) GetSpotMarginData(ctx context.Context, opts ...RequestOption) (res *ServerResponse, err error) {
